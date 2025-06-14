@@ -1,4 +1,4 @@
-#  Airbnb Data Visualization Dashboard – Tableau
+#  AirBnB Data Visualization Dashboard – Tableau
 
 ##  Overview
 This project showcases an interactive data visualization dashboard built using Tableau and an Airbnb dataset. The aim is to uncover insights into property listings across neighborhoods, pricing patterns, availability trends, and host behavior. This can help hosts, travelers, and analysts make data-informed decisions.
